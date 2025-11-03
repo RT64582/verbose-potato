@@ -1,0 +1,63 @@
+,קטגוריה,שם הכלי,שימוש מרכזי,מודל תמחור,תמיכה בעברית,שפות נתמכות,רמת משתמש,פלטפורמות,חלופות עיקריות,הבדל מול חלופות,פרטיות/אחסון,מתאים ללא רקע
+,כתיבה/עוזר כללי,ChatGPT (OpenAI),"כתיבה, סיכום, תכנון משימות",חינמי / Plus / Enterprise,טובה,רב־לשוני,מתחיל,"Web, iOS, Android",Claude; Gemini,אקוסיסטם תוספים רחב ותמיכה כללית טובה,ענן; אפשרויות ארגוניות משופרות,כן
+,כתיבה/עוזר כללי,Gemini (Google),"יצירת תוכן, תמונות/קוד, Workspace",חינמי / Workspace Add‑on / Enterprise,טובה,רב־לשוני,מתחיל,"Web, Android, Workspace",ChatGPT; Claude,שילוב עמוק ב‑Workspace וב‑Android,ענן Google; שליטה ארגונית,כן
+,כתיבה/עוזר כללי,Claude (Anthropic),"כתיבה איכותית, ניתוח מסמכים",חינמי / Pro / Team / Enterprise,טובה,רב־לשוני,מתחיל,"Web, iOS, API",ChatGPT; Gemini,מיקוד בבטיחות ודיוק ניסוח,ענן; מדיניות פרטיות מוקפדת,כן
+,מחקר וחיפוש,Perplexity,"חיפוש תשובות מצוטטות, מחקר",חינמי / Pro,טובה,רב־לשוני,מתחיל,"Web, iOS, Android",You.com; Bing Copilot,מקורות מצוטטים ובקשות המשך מהירות,ענן; היסטוריית חיפושים,כן
+,מחקר וחיפוש,Elicit,"מחקר ספרות, סיכום מאמרים",Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Genei; Scite Assistant,התמקדות במחקר אקדמי מובנה,ענן; אימפורט PDF,כן
+,מחקר וחיפוש,Genei,סיכום מסמכים ומאמרים,חודשי/שנתי,סבירה,רב־לשוני,מתחיל,Web,Elicit; Scite,UI קל לסיכומים מהירים,ענן,כן
+,מחקר וחיפוש,Scite Assistant,בדיקת ציטוטים ושקלול ראיות,Pro / מוסדי,מוגבלת,בעיקר אנגלית,בינוני,Web,Elicit; Semantic Scholar (לא AI מלא),התמקדות באמינות מקורות,ענן,תלוי
+,ניהול משימות ופרויקטים,Asana AI,"טיוב משימות, סיכומים, אוטומציות",תוספת/ברמות Pro/Business,סבירה,רב־לשוני,מתחיל,"Web, iOS, Android",Monday AI; ClickUp AI,שילוב בזרימת Asana קיימת,ענן Asana,כן
+,ניהול משימות ופרויקטים,ClickUp AI,"יצירת טיקטים, תווים, סיכומים",Add‑on לחשבון ClickUp,סבירה,רב־לשוני,מתחיל,"Web, Desktop, Mobile",Asana AI; Monday AI,בונה תבניות תוכן רבות,ענן ClickUp,כן
+,ניהול משימות ופרויקטים,Monday AI,"אוטומציות, סיכומים, יצירת שדות",תוספת/ברמות מתקדמות,טובה (UI); AI טקסט: סבירה,רב־לשוני,מתחיל,"Web, Mobile",Asana AI; ClickUp AI,"פופולרי בישראל, אוטומציות נוחות",ענן Monday,כן
+,ניהול משימות ופרויקטים,Trello + Butler,"קנבנים, אוטומציות קלות",Freemium / Standard / Premium,סבירה,רב־לשוני,מתחיל,"Web, Mobile",Notion AI; ClickUp,פשטות גבוהה לחדשים,ענן Atlassian,כן
+,מסמכים וניהול ידע,Notion AI,"דפי ידע, ויקי, כתיבה חכמה",Add‑on למנוי Notion,סבירה,רב־לשוני,מתחיל,"Web, Desktop, Mobile",Coda AI; Evernote,All‑in‑one ידע+מסמכים,ענן Notion,כן
+,מסמכים וניהול ידע,Coda AI,מסמכים חכמים + אוטומציה,Add‑on למנוי Coda,סבירה,רב־לשוני,בינוני,Web,Notion AI; Airtable AI,אינטגרציות ואוטומציה חזקה,ענן Coda,כן
+,מסדי נתונים/טבלאות,Airtable AI,השלמות חכמות בשדות/אוטומציות,Add‑on למנוי Airtable,סבירה,רב־לשוני,בינוני,"Web, Mobile",Coda AI; Google Sheets (Gemini),בינה בתוך שדות וטבלאות,ענן Airtable,תלוי
+,הערות וידע אישי,Obsidian + Text Generator,הערות מקושרות וייצור טקסט,חינמי + תוסף בתשלום אפשרי,סבירה,רב־לשוני (תוסף),בינוני,"Desktop, Mobile",Tana; Mem,שליטה מקומית בקבצים,מקומי/ענן לפי בחירה,תלוי
+,הערות וידע אישי,Tana + AI,ידע אישי מבני עם AI,Pro / Business,סבירה,רב־לשוני,בינוני,"Web, Desktop (PWA)",Obsidian; Notion AI,מודל נתונים גמיש מאוד,ענן Tana,תלוי
+,הערות וידע אישי,Mem X,זיכרון אישי חכם ואחזור,Pro / Team,סבירה,רב־לשוני,מתחיל,"Web, iOS",Reflect; Notion AI,לכידת פתקי מחשבה מהירה,ענן Mem,כן
+,קריאה והיילייטים,Readwise Reader + Ghostreader,שמירת מאמרים וסיכומים חכמים,Pro,סבירה,רב־לשוני,מתחיל,"Web, Mobile",Instapaper (+AI); Omnivore,סנכרון Kindle ותזכורות למידה,ענן Readwise,כן
+,הערות/ארגון,Evernote (AI features),ארגון הערות עם AI,Personal / Professional,סבירה,רב־לשוני,מתחיל,"Web, Mobile, Desktop",Notion AI; Obsidian,UI מוכר ופשוט,ענן Evernote,כן
+,אימייל חכם,Superhuman (AI),סיכום מיילים ותגובות מהירות,מנוי חודשי,סבירה,רב־לשוני,מתחיל,"Desktop, iOS, Web",Shortwave; Gmail + Gemini,מהירות ועל‑סינון חכם,ענן; אינטגרציה Gmail/Outlook,כן
+,אימייל חכם,Shortwave (AI),סיכומי שרשורים ותגובות,Freemium / Pro,סבירה,רב־לשוני,מתחיל,"Web, iOS, Android",Superhuman; Gmail + Gemini,UI דומה ל‑Inbox לשעבר,ענן,כן
+,פגישות ותמלול,Otter.ai,תמלול אוטומטי וסיכומי ישיבות,Free / Pro / Business,מוגבלת/ניסיונית,בעיקר אנגלית,מתחיל,"Web, Mobile",Fireflies; Supernormal,"UI ידידותי, שיתופי",ענן Otter,כן
+,פגישות ותמלול,Fireflies.ai,"עוזר פגישה, סיכומים, משימות",Freemium / Pro / Business,סבירה (תלוי תכנית),רב־לשוני,מתחיל,"Web, Extensions",Otter; Sembly,אינטגרציות רבות ל‑CRM,ענן Fireflies,כן
+,פגישות ותמלול,Sembly AI,סיכומי פגישה ו‑Action Items,Freemium / Pro / Team,סבירה,רב־לשוני,מתחיל,Web,Otter; Supernormal,Action Items ברורים,ענן Sembly,כן
+,פגישות ותמלול,Supernormal,סיכומי פגישות אוטומטיים,Pro / Business,סבירה,רב־לשוני,מתחיל,Web,Otter; Fireflies,פורמטים יפים לשיתוף,ענן,כן
+,וידאו/שיחות,Zoom AI Companion,"סיכומים, משימות, שאלות בפגישה",תוספת/כלול בחלק מהתכניות,סבירה,רב־לשוני,מתחיל,Zoom,Google Meet AI; Teams Copilot,זמין בתוך Zoom,ענן Zoom,כן
+,תקשורת ארגונית,Slack AI,"סיכום ערוצים, תשובות ממסמכים",תוספת בתשלום לחשבונות Slack,סבירה,רב־לשוני,בינוני,"Web, Desktop, Mobile",Microsoft Teams + Copilot,נקודתי לערוצים ושיחות,ענן Slack,כן
+,סוויטות משרד,Microsoft 365 Copilot,Word/Excel/PowerPoint חכמים,Add‑on למנויי M365,טובה (משתנה לפי אפליקציה),רב־לשוני,מתחיל,"Desktop, Web",Gemini for Workspace,אינטגרציה עמוקה לאופיס,ענן/On‑prem (ארגוני),כן
+,סוויטות משרד,Gemini for Workspace,Docs/Sheets/Slides חכמים,Add‑on ל‑Google Workspace,טובה,רב־לשוני,מתחיל,"Web, Mobile",Microsoft 365 Copilot,שיתוף קל במערכת גוגל,ענן Google,כן
+,תזמון ולוח שנה,Reclaim.ai,"תזמון חכם של משימות ולו""ז",Freemium / Pro / Business,סבירה,רב־לשוני (UI אנגלית),מתחיל,"Web, Google Calendar",Motion; Clockwise,חסימת זמן אוטומטית,ענן Reclaim,כן
+,תזמון ולוח שנה,Motion (UseMotion),תיוזום אוטומטי של משימות לפגישות,מנוי חודשי/שנתי,מוגבלת,בעיקר אנגלית,מתחיל,"Web, iOS",Reclaim; Clockwise,Scheduling‑first חזק,ענן Motion,כן
+,תזמון ולוח שנה,Clockwise,"אופטימיזציית לו""ז צוותי",Freemium / Business,מוגבלת,בעיקר אנגלית,בינוני,"Web, Google Workspace",Reclaim; Motion,איזון צוותי מתקדם,ענן Clockwise,כן
+,אוטומציה,Zapier + AI,אוטומציות בין אפליקציות עם AI,Freemium / Paid Tiers,סבירה,רב־לשוני,מתחיל,Web,Make; Pipedream,מרקטפלייס עצום של חיבורים,ענן Zapier,כן
+,אוטומציה,Make (Integromat) + AI,תרחישים מתקדמים עם AI,Freemium / Paid Tiers,סבירה,רב־לשוני,בינוני,Web,Zapier; n8n,ויזואליזציה גמישה מאוד,ענן Make,כן
+,אוטומציה,n8n (Self‑host + Cloud),אוטומציות פתוחות קוד עם AI,חינמי Self‑host / Cloud בתשלום,סבירה,רב־לשוני,בינוני‑מתקדם,"Self‑host, Cloud",Make; Pipedream,בעלות על הדאטה (Self‑host),שרת עצמי/ענן,תלוי
+,אוטומציה,Pipedream + AI,סקריפטים ואוטומציות מונעות אירועים,Freemium / Pro,סבירה,רב־לשוני,בינוני,Web,Zapier; Make,קוד+Low‑code יחד,ענן Pipedream,תלוי
+,טפסים וחזרה ללקוחות,Typeform AI,יצירת טפסים/סקרים עם AI,Paid Tiers,סבירה,רב־לשוני,מתחיל,Web,Tally + AI; Google Forms + AI,חוויית משתמש חזקה,ענן Typeform,כן
+,טפסים וחזרה ללקוחות,Tally Forms + AI Assist,טפסים מהירים עם עוזר AI,Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Typeform; Google Forms,פשטות ומהירות בנייה,ענן Tally,כן
+,עיצוב ותמונה,Canva – Magic Studio,"עיצוב מהיר, יצירת נכסים",Freemium / Pro / Teams,טובה (UI); טקסט: סבירה,רב־לשוני,מתחיל,"Web, Mobile",Adobe Express; Figma AI,"טמפלטים רבים, קל לשימוש",ענן Canva,כן
+,עיצוב וממשק,Figma AI,יצירת UI ותכולות אוטומטית,Add‑on/ברמות מתקדמות,סבירה,רב־לשוני,בינוני,"Web, Desktop",Canva; Framer AI,מיועד ל‑UI/UX מקצועי,ענן Figma,תלוי
+,לוחות/חזותיות,Miro AI,"מפות חשיבה, סכמות, סיכומים",Freemium / Business,סבירה,רב־לשוני,מתחיל,"Web, Desktop, Mobile",FigJam; Lucid,כלי AI בתוך לוח שיתופי,ענן Miro,כן
+,אתרים מהירים,Framer AI,בנייה מהירה של דפי נחיתה,Paid Tiers,סבירה,רב־לשוני (טיפוגרפיה חשובה),מתחיל,Web,Wix AI; Webflow + AI,מהירות מקונספט לפרסום,ענן Framer,כן
+,מצגות חכמות,Tome,יצירת מצגות ב‑AI,Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Gamma; Beautiful.ai,ויז׳ואל חזק ושיתופי,ענן Tome,כן
+,מצגות חכמות,Gamma,מסמכים/מצגות אינטראקטיביים,Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Tome; Beautiful.ai,דגש על דוקומנטים עשירים,ענן Gamma,כן
+,מצגות חכמות,Beautiful.ai,מצגות מעוצבות אוטומטית,Pro / Team / Enterprise,סבירה,רב־לשוני,מתחיל,Web,Tome; Gamma,Auto‑layout חזק,ענן,כן
+,מצגות חכמות,Decktopus,יצירת Deck מהירה,Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Beautiful.ai; Tome,תבניות רבות ל‑Pitch,ענן,כן
+,רעש/שיחות,Krisp.ai,סינון רעשים ושכתוב דיבור,Freemium / Pro,מוגבלת (שכתוב),בעיקר אנגלית,מתחיל,"Desktop, Extensions",NVIDIA RTX Voice; Zoom,Noise‑cancel ב‑Edge device,מקומי/ענן,כן
+,קריאה/תשובות,You.com (YouChat),עוזר חיפוש+כתיבה,Freemium / Pro,סבירה,רב־לשוני,מתחיל,"Web, Extensions",Perplexity; Bing Copilot,Shop/Code/Write בממשק אחד,ענן,כן
+,תיעוד קבוע,Rewind AI,תיעוד מסך וזיכרון אישי,מנוי,סבירה,רב־לשוני,בינוני,macOS (עיקרי),Recall‑like tools; Glasp,חיפוש בכל מה שנראה ונאמר,מקומי‑פרטיות מודגשת,תלוי
+,כתיבה/קריאה,Bearly AI,"קריאה, סיכום וכתיבה מהירה",Freemium / Pro,סבירה,רב־לשוני,מתחיל,"Desktop, Browser",Perplexity; ChatGPT,קיצורי מקשים לכל אפליקציה,לואקלי+ענן,כן
+,ריכוז משימות,Todoist + AI,יצירה/תיוג חכם של משימות,Freemium / Pro,טובה (UI); AI: סבירה,רב־לשוני,מתחיל,"Web, Mobile",Things; TickTick,"NLP למשימות, אינטגרציות",ענן,כן
+,ניהול אישי,Notion Calendar (ex‑Cron) + AI,"לו""ז חכם עם הקשרים",חינמי / Pro,סבירה,רב־לשוני,מתחיל,"Web, Desktop, Mobile",Reclaim; Motion,קישור ישיר ל‑Notion AI,ענן Notion,כן
+,ניתוח נתונים קל,Wolfram|Alpha + LLM,פתרון חישובי וניתוחים,Freemium / Pro,מוגבלת (פלט),בעיקר אנגלית,בינוני,"Web, Integrations",Sheets + Gemini; Excel + Copilot,מנוע חישוב סמלית מדויק,ענן,תלוי
+,קוד ללא קוד,PandaSuite AI Assist,בניית אפליקציות בלי קוד בעזרת AI,Paid Tiers,סבירה,רב־לשוני,מתחיל,Web,Glide AI; Softr AI,דגש על מובייל/אפליקציות,ענן,כן
+,קוד ללא קוד,Glide + AI,אפליקציות מתוך גיליונות,Freemium / Pro,סבירה,רב־לשוני,מתחיל,Web,Softr; AppSheet + AI,מהיר מקובץ ל‑App,ענן Glide,כן
+,אינטגרציה נתמכת גוגל,AppSheet + AI,אפליקציות ללא קוד מתוך Sheets,Paid Tiers,סבירה,רב־לשוני,בינוני,"Web, Mobile",Glide; Softr,חיבור עמוק ל‑Workspace,ענן Google,כן
+,אוטומציית מייל,Mailchimp + AI,קמפיינים עם מחולל תוכן,Freemium / Paid,סבירה,רב־לשוני,מתחיל,Web,Sendinblue; Klaviyo AI,אקוסיסטם שיווק ותבניות,ענן,כן
+,"שיווק בדוא""ל",Brevo (Sendinblue) AI,כתיבת מיילים ו‑A/B חכם,Freemium / Paid,סבירה,רב־לשוני,מתחיל,Web,Mailchimp; Klaviyo,"מחירים נוחים, שליחה טרנזאקציונית",ענן,כן
+,מסרים וקול,ElevenLabs (Voice),סינתזת דיבור באיכות גבוהה,Freemium / Paid,סבירה (תלוי קול),רב־לשוני,מתחיל,"Web, API",PlayHT; Azure TTS,איכות קול טבעית,ענן,כן
+,תעתוק/תרגום,Whisper‑based Apps,תמלול מקומי/ענן,חינמי/שונות,טובה (דגם מתאים),רב־לשוני,בינוני,Desktop/Web,Vosk; AssemblyAI,תמיכה רחבה בשפות,מקומי/ענן,תלוי
+,דפדפן חכם,Arc Search / Arc Max (AI),חיפושים ותשובות מהירות,חינמי / תכונות AI בתשלום,סבירה,רב־לשוני,מתחיל,"iOS, macOS",Perplexity; Bing Copilot,דפדפן עם AI מובנה,מקומי+ענן,כן
+,קריאה/למידה,Explainpaper / SciSpace,הסברת מאמרים וקוד,Freemium / Pro,מוגבלת,בעיקר אנגלית,מתחיל,Web,Elicit; Perplexity,התמקדות בהסברים,ענן,כן
